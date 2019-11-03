@@ -31,6 +31,15 @@ samle.csv が 10 万行データだが、日次集計、月次集計など 一�
 
 ## 参考情報
 
+- https://github.com/mithrandie/csvq
+  github. テストと coverage が十分にされている。
+
 - https://qiita.com/mithrandie/items/146564e748ee235709c0
   csvqについてのいろいろ
 
+- https://www.shigemk2.com/entry/2019/02/21/125233
+  csvqとq 比較
+
+- http://memo.eightban.com/windows/csvparser#csvq
+ CSVファイルから条件に合ったものをSQLで抽出し必要な項目を出力するには (csvq と類似したツールの情報がある)
+ 
